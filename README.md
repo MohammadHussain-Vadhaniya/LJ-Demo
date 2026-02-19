@@ -1,2 +1,5 @@
 # LJ-Demo
-Demo lectures for git practice
+
+Demo lectures for a git practice
+
+Hello World
